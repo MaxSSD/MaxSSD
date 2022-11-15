@@ -1,9 +1,8 @@
 ### Hi People, I'm Max! 👋
 
 - 🔭 I’m always working on my coding skills.
-- 🌱 I’m reading Hands-On Machine Learning by Aurélien Géron.
 - 👯 I’m looking to collaborate, HMU 🤙!
-- 📫 Mail me @: maksszych@protonamail.com
+- 📫 Mail me @: maksszych@proton.me
 - 📝 Fun fact: The only code I write without any errors : "Hello World".
 - © I run a food delivery service check out our [website](https://www.curryme.nl/).
 
