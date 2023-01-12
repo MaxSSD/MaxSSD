@@ -2,7 +2,6 @@
 
 - 🔭 I’m always working on my coding skills.
 - 👯 I’m looking to collaborate, HMU! 🤙
-- 📫 Mail me @: maksszych@proton.me
 
 <p><img align="center" src="https://media2.giphy.com/media/dwaeIbBnF6HBu/200w.webp?cid=ecf05e47yb6vgun36yalf80zq45riz0ahtv389tj77b95nh1&rid=200w.webp&ct=g" alt="placeholder" width="1001" height="21" title="hover text"></p>
 
