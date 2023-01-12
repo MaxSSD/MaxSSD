@@ -6,11 +6,6 @@
 
 <p><img align="center" src="https://media2.giphy.com/media/dwaeIbBnF6HBu/200w.webp?cid=ecf05e47yb6vgun36yalf80zq45riz0ahtv389tj77b95nh1&rid=200w.webp&ct=g" alt="placeholder" width="1001" height="21" title="hover text"></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/maksymilian-szych-b57480198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksymilian-szych-b57480198" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dronojohno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dronojohno" height="30" width="40" /></a>
-</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MaxSSD&label=Profile%20views&color=0e75b6&style=flat" /></p>
 <h3 align="left">Languages and Tools:</h3>
 
