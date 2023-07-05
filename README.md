@@ -15,8 +15,7 @@
   <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix" width="40" height="40"/> </a> <a href="https://www.wix.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="fb" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> 
- 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxSSD&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="MaxSSD" /></p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MaxSSD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxSSD&theme=dark" alt="MaxSSD" /></p>
