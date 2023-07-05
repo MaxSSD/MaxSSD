@@ -5,7 +5,6 @@
 
 <p><img align="center" src="https://media2.giphy.com/media/dwaeIbBnF6HBu/200w.webp?cid=ecf05e47yb6vgun36yalf80zq45riz0ahtv389tj77b95nh1&rid=200w.webp&ct=g" alt="placeholder" width="1001" height="21" title="hover text"></p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=MaxSSD&label=Profile%20views&color=0e75b6&style=flat" /></p>
 <h3 align="left">Languages and Tools:</h3>
 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/" target="_blank">
